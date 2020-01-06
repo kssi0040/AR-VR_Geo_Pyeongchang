@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz>
+  <List>
+    <QuizTimeAtk>
+      <InitQuizInfo ID="0" Count="3" Time="300.0">
+        <QuizList>
+          <InitQuiz ID="0" Type="Opt">
+            <Opt>
+              <Question>Q1. 고위평탄면에 대한 설명으로 옳지 않은 것을 고르세요.
+① 해발고도가 높고 평탄한 넓은 지역을 의미한다.
+② 우리나라에는 태백산맥에 부분적으로 분포해 있다.
+③ 고생대와 중생대에 형성된 기복이 심한 높은 산지가 신생대에 침식되어 만들어졌다.
+④ 고생대와 중생대를 거쳐 오랫동안 침식을 받은 낮고 평평한 지역이 신생대에 이르러 솟아올라 형성되었다.
+⑤ 넓고 교통조건이 좋은 대관령의 고위평탄면은 대규모 목축업과 고랭지채소 재배가 이루어지고 있다.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="Item0">
+                  <Text>①</Text>
+                </InitItem>
+                <InitItem ID="1" Name="Item1">
+                  <Text>②</Text>
+                </InitItem>
+                <InitItem ID="2" Name="Item2">
+                  <Text>③</Text>
+                </InitItem>
+                <InitItem ID="3" Name="Item3">
+                  <Text>④</Text>
+                </InitItem>
+                <InitItem ID="4" Name="Item4">
+                  <Text>⑤</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="③"/>                
+              </AnswerList>
+            </Opt>
+          </InitQuiz>
+          <InitQuiz ID="1" Type="Opt">
+            <Opt>
+              <Question>Q2. 지역브랜드에 대한 설명으로 옳은 것을 모두 고르세요.
+① 상표의 개념을 지역에 적용한 것이다.
+② 지역 그 자체를 브랜드화하는 것과 지역에서 생산한 상품을 브랜드화하는 것으로 구분한다.
+③ 대부분 지역에서 생산한 상품을 브랜드화하는 경우가 많다.
+④ 지역브랜드의 가치를 높이면 지역에 대한 이미지가 향상된다.
+⑤ 지역브랜드와 지역 경제 상태는 서로 관계가 없다.</Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="Item0">
+                  <Text>①</Text>
+                </InitItem>
+                <InitItem ID="1" Name="Item1">
+                  <Text>②</Text>
+                </InitItem>
+                <InitItem ID="2" Name="Item2">
+                  <Text>③</Text>
+                </InitItem>
+                <InitItem ID="3" Name="Item3">
+                  <Text>④</Text>
+                </InitItem>
+                <InitItem ID="4" Name="Item4">
+                  <Text>⑤</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="①"/>
+                <InitAnswer ID="1" Answer="②"/>
+                <InitAnswer ID="2" Answer="④"/>
+              </AnswerList>
+            </Opt>
+          </InitQuiz>
+          <InitQuiz ID="2" Type="Typing1">
+            <Typing1>
+              <Question>Q3. 다음은 평창군의 지역브랜드를 나타내는 슬로건입니다.
+빈칸에 들어갈 평창군 지역브랜드의 이름을 쓰세요.
+① 건강, 휴양, 레포츠의 최적지 (          )평창
+② 자연, 건강, 장수의 (          )평창
+③ 인간 최적의 생활환경 (          )평창</Question>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="HAPPY700"/>
+              </AnswerList>
+            </Typing1>
+          </InitQuiz>
+        </QuizList>
+        <Node Clear="41" fail="40"></Node>
+      </InitQuizInfo>
+      <InitQuizInfo ID="1" Count="3" Time="300.0">
+        <QuizList>
+          <InitQuiz ID="0" Type="Typing2">
+            <Typing2>
+              <Question>Q1. 의야지 바람마을에 대한 설명이 맞으면 O, 틀리면 X를 표시하세요. (대문자로 작성해주세요.)
+① 의야지 바람마을은 강원도 평창군 대관령면 횡계2리에 있다. (  )
+② 의야지 바람마을에서 ‘의야지’는 의로운 사람들이 모여 사는 곳이라는 뜻이다. (  )
+③ 의야지 바람마을은 역사가 길지 않지만 아름다운 자연환경을 자랑한다. (  )</Question>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="O"/>
+                <InitAnswer ID="1" Answer="O"/>
+                <InitAnswer ID="2" Answer="X"/>
+              </AnswerList>
+            </Typing2>
+          </InitQuiz>
+          <InitQuiz ID="1" Type="Typing1">
+            <Typing1>
+              <Question>Q2. 다음은 평창군의 한 조직에 대한 설명글입니다. 이 조직의 이름을 적으세요.
+
+그린투어리즘을 지향하는 평창군의 연합 조직으로, 체험마을, 농어촌 민박, 레포츠, 특화체험으로 구성된 네 개의 협의체로 이루어져 있어 상호협력을 통해 지역 경제에 기여하고 있다.</Question>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="평창 그린투어사업단"/>
+              </AnswerList>
+            </Typing1>
+          </InitQuiz>
+          <InitQuiz ID="2" Type="Opt">
+            <Opt>
+              <Question>
+                Q3. 대관령 풍력발전소에 관련된 설명으로 옳지 않은 것을 고르세요.
+                ① 대관령은 풍력발전의 입지조건에 부합한다.
+                ② 국내 최대 규모의 풍력발전소이다.
+                ③ 2006년에 완공되었다.
+                ④ 국내에서 두 번째로 건설되었다.
+                ⑤ 대관령 풍력발전소에 설치된 발전기는 총 49개이다.
+              </Question>
+              <OrderPanel>
+                <InitItem ID="0" Name="Item0">
+                  <Text>①</Text>
+                </InitItem>
+                <InitItem ID="1" Name="Item1">
+                  <Text>②</Text>
+                </InitItem>
+                <InitItem ID="2" Name="Item2">
+                  <Text>③</Text>
+                </InitItem>
+                <InitItem ID="3" Name="Item3">
+                  <Text>④</Text>
+                </InitItem>
+                <InitItem ID="4" Name="Item4">
+                  <Text>⑤</Text>
+                </InitItem>
+              </OrderPanel>
+              <AnswerList>
+                <InitAnswer ID="0" Answer="④"/>
+              </AnswerList>
+            </Opt>
+          </InitQuiz>
+        </QuizList>
+        <Node Clear="57" fail="56"></Node>
+      </InitQuizInfo>
+    </QuizTimeAtk>
+  </List> 
+</Quiz>
